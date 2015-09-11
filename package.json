@@ -6,6 +6,9 @@
   "scripts": {
     "test": "-"
   },
-  "author": "",
+  "author": "CubeIO A/S <devs@cubeio.com> (http://cubeio.com)",
+  "contributors": [
+    "Niels Abildgaard <na@cubeio.com>"
+  ],
   "license": "-"
 }
