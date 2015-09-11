@@ -1,0 +1,11 @@
+{
+  "name": "cubeio-js-util",
+  "version": "0.0.0",
+  "description": "utils that should have been in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "-"
+  },
+  "author": "",
+  "license": "-"
+}
