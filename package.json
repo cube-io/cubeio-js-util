@@ -6,6 +6,10 @@
   "scripts": {
     "test": "-"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cube-io/cubeio-js-util"
+  },
   "author": "CubeIO A/S <devs@cubeio.com> (http://cubeio.com)",
   "contributors": [
     "Niels Abildgaard <na@cubeio.com>"
