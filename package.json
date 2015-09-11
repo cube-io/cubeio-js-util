@@ -14,5 +14,9 @@
   "contributors": [
     "Niels Abildgaard <na@cubeio.com>"
   ],
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cube-io/cubeio-js-util/issues"
+  },
+  "homepage": "https://github.com/cube-io/cubeio-js-util"
 }
